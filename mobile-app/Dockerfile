@@ -1,5 +1,5 @@
 # pull base image
-FROM node:14.13.1-buster-slim
+FROM node:14.21.3-buster-slim
 
 # install necessary package(s)
 RUN apt-get update && \
