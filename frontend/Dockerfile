@@ -18,7 +18,7 @@ COPY . .
 RUN npm run build
 
 #get the latest alpine image from nginx registry
-FROM nginx:1.23.2
+FROM nginx:1.26.1
 
 #we copy the output from first stage that is our react build
 #into nginx html directory where it will serve our index file
