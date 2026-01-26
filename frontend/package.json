@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@carbon/charts": "^1.0.4",
+    "@carbon/charts": "^1.10.1",
     "@carbon/charts-react": "^1.0.4",
     "@carbon/react": "^1.4.0",
     "d3": "^7.4.4",
